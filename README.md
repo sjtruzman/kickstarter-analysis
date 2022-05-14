@@ -1,4 +1,4 @@
-# Kickstarting Challenge
+# Kickstarter Challenge
 ## This analysis focus on the outcome based on the relation between the launch date and the goals on Louis's fundraising campaigns. 
 ### Define how the outcome is affected by different factors and provide visual and analytical data to Louise so she can adjust her fundraising campaigns. 
 ## Analysis and Challenges
