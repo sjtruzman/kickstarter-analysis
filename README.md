@@ -1,7 +1,7 @@
-# Kickstarting Challenge
-
-## Outcome Analysis by Goals and Launch Date
-
+# Kickstarting with Excel
+Louis Fund
+## Overview of Project
+Outcome Analysis by Goals and Launch Date
 ### Define how the outcome is affected by different factors and provide visual and analytical data to Louise so she can adjust her fundraising campaigns. 
 
 ## Analysis and Challenges
