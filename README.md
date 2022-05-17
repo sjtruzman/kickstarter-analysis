@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 
-## Overview of Project
+## Overview 
 This analysis focus on the outcome based on the relation between the launch date and the goals on Louis's fundraising campaigns. 
 
 ### Purpose
